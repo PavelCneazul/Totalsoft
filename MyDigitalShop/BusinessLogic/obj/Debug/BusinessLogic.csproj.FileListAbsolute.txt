@@ -1,0 +1,11 @@
+D:\ProiectProgramare\MyDigitalShop\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\ProiectProgramare\MyDigitalShop\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\ProiectProgramare\MyDigitalShop\BusinessLogic\bin\Debug\DataAccess.dll
+D:\ProiectProgramare\MyDigitalShop\BusinessLogic\bin\Debug\Entities.dll
+D:\ProiectProgramare\MyDigitalShop\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\ProiectProgramare\MyDigitalShop\BusinessLogic\bin\Debug\Entities.pdb
+D:\ProiectProgramare\MyDigitalShop\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+D:\ProiectProgramare\MyDigitalShop\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\ProiectProgramare\MyDigitalShop\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+D:\ProiectProgramare\MyDigitalShop\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\ProiectProgramare\MyDigitalShop\BusinessLogic\obj\Debug\BusinessLogic.pdb
